@@ -111,5 +111,5 @@ Os testes usam o perfil `test` (H2 em memória).
 
 | Responsável | Tarefa              | Branch             |
 |-------------|---------------------|--------------------|
-| Aluno 1     | CRUD de Autores     | `feature/autores`  |
-| Aluno 2     | CRUD de Livros      | `feature/livros`   |
+|Júlia Santos | CRUD de Autores     | `feature/autores`  |
+|Vitor Luis   | CRUD de Livros      | `feature/livros`   |
